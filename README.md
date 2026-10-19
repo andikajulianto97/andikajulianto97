@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=ANDIKA%20JULIANTO&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=200&section=header&text=ANDIKA%20JULIANTO&fontSize=40&fontColor=10b981&animation=fadeIn" width="100%" />
 </div>
 
 ## 👨‍💻 `<AndikaJulianto />`
