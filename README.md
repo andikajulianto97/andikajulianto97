@@ -1,11 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HI,%20I'M%20ANDIKA&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=200&section=header&text=ANDIKA%20JULIANTO&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+</div>
 
-### Selamat datang! Saya Andika, mahasiswa yang sedang belajar web dasar & mobile yang antusias membangun aplikasi interaktif. ✨
+### 👨‍💻 `<AndikaJulianto />`
+> *Passionate Software Engineering Student & Web/Mobile Developer Enthusiast*
 
-- 🚀 **Fokus Saat Ini:** Mahasiswa Teknik Informatika | Web & Mobile Developer
-- 📍 **Lokasi:** Cianjur, Indonesia
+---
+
+- 🎯 **Current Focus:** Web & Mobile Development | Informatics Engineering
+- 📍 **Based in:** Cianjur, Indonesia
+
+---
 
 <p align="left">
   <a href="https://x.com/@Dikaa555"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
@@ -22,7 +27,6 @@
 #### 🌐 Web & Frameworks
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 📊 Statistik GitHub
 
