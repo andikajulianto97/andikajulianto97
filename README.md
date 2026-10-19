@@ -31,32 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=andikajulianto97&show_icons=true&theme=tokyonight&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikajulianto97&layout=compact&theme=tokyonight&hide_progress=false" height="180" />
 </p>
-
-name: Generate Snake Game
-
-on:
-  schedule: # Berjalan otomatis setiap 12 jam
-    - cron: "0 */12 * * *"
-  workflow_dispatch: # Bisa dijalankan manual
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-### 🐍 Kontribusi & Snake Game
-
-![Snake Game](https://raw.githubusercontent.com/andikajulianto97/andikajulianto97/output/github-snake-dark.svg)
