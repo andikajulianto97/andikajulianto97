@@ -1,16 +1,34 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=HI,%20I'M%20ANDIKA&fontSize=65&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
 
-<!--
-**andikajulianto97/andikajulianto97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Selamat datang! Saya Andika, mahasiswa yang sedang belajar web dasar & mobile yang antusias membangun aplikasi interaktif. ✨
 
-Here are some ideas to get you started:
+- 🚀 **Fokus Saat Ini:** Mahasiswa Teknik Informatika | Web & Mobile Developer
+- 📍 **Lokasi:** Cianjur, Indonesia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://x.com/@Dikaa555"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="mailto:andikajulianto888@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Bahasa Pemrograman
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🌐 Web & Frameworks
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 📊 Statistik GitHub
+
+<p align="center">
+  <!-- Ganti 'andikajulianto97' dengan username GitHub kamu -->
+  <img src="https://github-readme-stats.vercel.app/api?username=andikajulianto97&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikajulianto97&layout=compact&theme=tokyonight&hide_progress=false" height="180" />
+</p>
+
