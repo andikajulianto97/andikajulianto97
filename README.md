@@ -1,15 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1e1e2e&height=200&section=header&text=ANDIKA%20JULIANTO&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=ANDIKA%20JULIANTO&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-### 👨‍💻 `<AndikaJulianto />`
-> *Passionate Software Engineering Student & Web/Mobile Developer Enthusiast*
+## 👨‍💻 `<AndikaJulianto />`
 
+> *Passionate Software Engineering Student & Web/Mobile Developer Enthusiast*
 ---
 
 - 🎯 **Current Focus:** Web & Mobile Development | Informatics Engineering
-- 📍 **Based in:** Cianjur, Indonesia
-
 ---
 
 <p align="left">
