@@ -31,3 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=andikajulianto97&show_icons=true&theme=tokyonight&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andikajulianto97&layout=compact&theme=tokyonight&hide_progress=false" height="180" />
 </p>
+
+### 🐍 Kontribusi & Snake Game
+
+![Snake Game](https://raw.githubusercontent.com/andikajulianto97/andikajulianto97/output/github-snake-dark.svg)
