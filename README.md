@@ -35,3 +35,9 @@
 ### 🐍 Kontribusi & Snake Game
 
 ![Snake Game](https://raw.githubusercontent.com/andikajulianto97/andikajulianto97/output/github-snake-dark.svg)
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=andikajulianto97.andikajulianto97)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=andikajulianto97&theme=tokyo-night)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
