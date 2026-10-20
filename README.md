@@ -2,13 +2,14 @@
 
 <!-- Jika kamu ingin memasukkan gambar yang tadi, upload gambarnya ke repo ini, lalu ganti URL_GAMBAR_KAMU dengan link gambarnya -->
 <!-- <img src="URL_GAMBAR_KAMU" width="80%" alt="Beban Stack Developer Banner"> -->
+<img width="2752" height="1536" alt="baner" src="https://github.com/user-attachments/assets/141fa5d0-7ad3-449b-a937-100d6bac6752" />
+
 
 # 🧑‍💻 Hai! Saya Dika
 ### 🚧 Beban Stack Developer 🚧
 
 *Bukan Full Stack, tapi Beban Stack.*
 
-**"Nulis kode 5 menit, nyari errornya 5 jam ☕"** <br>
 **"Kerjaannya: Commit, Push, Pasrah 😭"**
 
 ---
@@ -16,7 +17,6 @@
 </div>
 
 ### 🐛 Tentang Saya (dan Bug Saya)
-- 🎓 Mahasiswa Teknik Informatika di Universitas Suryakancana.
 - 💻 Sedang mencoba bertahan hidup dari gempuran *Syntax Error* dan *NullPointerException*.
 - 🔍 Keahlian utama: Googling masalah di StackOverflow dan pasrah kalau udah nge-stuck.
 - 🎮 Kalau kodenya udah gak bisa diselamatkan, mending *refresh* otak main eFootball (PSG!), Valorant, Point Blank, atau Roblox.
@@ -26,7 +26,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
